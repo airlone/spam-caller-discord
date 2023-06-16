@@ -13,6 +13,7 @@ This tool can spam call a discord user. You can use either one or multiple token
 - [Youtube Vid](https://youtu.be/Hnd40Eh97Jg)
 - [Interface](https://github.com/airlone/spam-caller-discord/blob/main/images/!.PNG)
 - [Example](https://github.com/airlone/spam-caller-discord/blob/main/images/@.PNG)
+- [GIF Example](https://github.com/airlone/spam-caller-discord/blob/main/images/proof.gif)
 
 ## Help and Support
 - [Discord Server](https://discord.gg/9gzWYNrR)
