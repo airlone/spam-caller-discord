@@ -7,7 +7,7 @@ This tool can spam call a discord user. You can use either one or multiple token
 - [x] Spam call and ring their phones/device
 - [x] Spam call with multiple tokens
 - [x] Fast and handles ratelimits
-- [ ] Play audio/video through camera (soon)   
+- [ ] Play audio/video through camera and mic (soon)   
 
 ## showcases and povs
 - [Youtube Vid](https://youtu.be/Hnd40Eh97Jg)
